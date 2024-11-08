@@ -20,6 +20,7 @@ import com.example.user.Repositary.StudentRepo;
 @RestController
 public class StudentController {
 
+	//full wanting in the file place
 	//find all the student data
 	@Autowired
 	StudentRepo stuRepo;
