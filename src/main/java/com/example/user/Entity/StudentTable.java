@@ -16,7 +16,7 @@ public class StudentTable {
 	public StudentTable(){
 		
 	}
-	
+	//Full wanting in the group only master 
 	//Constructor using parameters
 	public StudentTable(int rollno, String name, long phone, String branch) {
 		super();
